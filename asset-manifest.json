@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bank-insight/static/css/main.7bb2d5b1.css",
+    "main.js": "/bank-insight/static/js/main.4f0e55d8.js",
+    "index.html": "/bank-insight/index.html",
+    "main.7bb2d5b1.css.map": "/bank-insight/static/css/main.7bb2d5b1.css.map",
+    "main.4f0e55d8.js.map": "/bank-insight/static/js/main.4f0e55d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bb2d5b1.css",
+    "static/js/main.4f0e55d8.js"
+  ]
+}
